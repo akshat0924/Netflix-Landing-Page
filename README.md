@@ -1,4 +1,4 @@
-Netflix Landing Page 🎬....
+Netflix Landing Page 🎬
 
 A simple and responsive Netflix Landing Page Clone built using HTML, CSS, and JavaScript.
 This project replicates the look and feel of the official Netflix landing page with a clean UI/UX.
